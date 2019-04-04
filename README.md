@@ -40,7 +40,7 @@ With this plugin you can, on your server, clean the chats of players
 	- `/cc reload`
 
 ## Links:
-- Site: [>> GitLab <<](https://gitlab.com/hampoelz/ChatClear)
-- Support: [>> GitLab <<](https://gitlab.com/hampoelz/ChatClear/issues)
-- Releases: [>> GitLab <<](https://gitlab.com/hampoelz/ChatClear/tags)
-- License: [>> MIT License <<](https://gitlab.com/hampoelz/ChatClear/blob/master/LICENSE)
+- Site: [>> GitHub <<](https://github.com/hampoelz/ChatClear)
+- Support: [>> GitHub <<](https://github.com/hampoelz/ChatClear/issues)
+- Releases: [>> GitHub <<](https://github.com/hampoelz/ChatClear/releases)
+- License: [>> MIT License <<](https://github.com/hampoelz/ChatClear/blob/master/LICENSE)
