@@ -1,0 +1,24 @@
+name: ChatClear
+version: 1.1
+author: Rene Hampoelz
+website: hampoelz.net
+
+main: net.hampoelz.ChatClear.Main.Main
+
+commands:
+  chatclear:
+    usage: /chatclear [player/reload]
+    description: Clear the Chat [of a player] / Reload the config
+    aliases: [cc]
+  ownchatclear:
+    usage: /ownchatclear
+    description: Clear your own Chat
+    aliases: [occ]
+    
+permissions:
+  chatclear.*:
+    children:
+      chatclear.all: true
+      chatclear.other: true
+      chatclear.self: true
+      chatclear.reload: true
